@@ -1,0 +1,74 @@
+# Task 5: Research Report on Social Engineering Attacks
+
+## Introduction
+Social engineering attacks exploit human psychology rather than technical vulnerabilities. Attackers manipulate individuals to gain unauthorized access, steal sensitive information, or spread malware. Understanding these attacks is crucial to protect organizations and individuals.
+
+---
+
+## 1. Phishing Attacks
+Phishing is a technique where attackers send fraudulent messages, often emails, pretending to be from a legitimate source.
+
+### How it Works
+- Victim receives a fake email or message  
+- Link or attachment prompts them to reveal credentials or download malware  
+
+### Impact
+- Credential theft  
+- Financial loss  
+- Unauthorized access to accounts  
+
+### Real-World Example
+Many corporate email accounts have been compromised through phishing campaigns, leading to data breaches.
+
+### Prevention
+- Email filtering  
+- Awareness training  
+- Two-factor authentication (2FA)
+
+---
+
+## 2. Pretexting
+Pretexting involves creating a fabricated scenario to trick someone into providing confidential information.
+
+### How it Works
+- Attacker pretends to be a trusted authority  
+- Victim provides information, believing the scenario is legitimate  
+
+### Impact
+- Unauthorized access to sensitive data  
+- Security breaches  
+
+### Prevention
+- Verify identities before sharing information  
+- Awareness training for employees  
+
+---
+
+## 3. Baiting
+Baiting uses false promises to entice victims into performing an action, like downloading malicious files.
+
+### How it Works
+- Attacker leaves infected USB drives or online offers  
+- Victim engages with the bait, compromising systems  
+
+### Impact
+- Malware infections  
+- Data theft  
+- Network compromise  
+
+### Prevention
+- Avoid unknown devices or downloads  
+- Use endpoint protection  
+- Security awareness training  
+
+---
+
+## Conclusion
+Social engineering attacks are highly effective because they exploit human behavior. Awareness, training, and strict security policies are essential to prevent such attacks. Organizations must educate employees and implement proper verification methods to minimize risk.
+
+---
+
+## References
+- Cybersecurity awareness materials  
+- Case studies of real-world attacks  
+- Security best practices
